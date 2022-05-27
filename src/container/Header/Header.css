@@ -1,0 +1,20 @@
+.app__header {
+  background-color: var(--color-black);
+}
+
+.app__header__h1 {
+  color: var(--color-golden);
+  font-family: var(--font-base);
+  letter-spacing: 0.04em;
+  line-height: 70px;
+  text-transform: capitalize;
+  font-size: 3rem;
+}
+.app__header__p {
+  font-weight: 500;
+  color: var(--color-gray);
+  font-family: var(--font-alt);
+}
+.app__wrapper_img {
+  width: 80%;
+}
